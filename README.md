@@ -1,6 +1,6 @@
 # core Flight System (cFS) File Manager Application (FM) 
 
-## Introduction
+## Introductions
 
 The File Manager application (FM) is a core Flight System (cFS) application 
 that is a plug-in to the Core Flight Executive (cFE) component of the cFS.  
