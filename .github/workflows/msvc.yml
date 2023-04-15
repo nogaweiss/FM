@@ -8,6 +8,8 @@
 
 name: Microsoft C++ Code Analysis
 
+cmake_minimum_required(VERSION 3.26)
+
 on:
   push:
     branches: [ "main" ]
